@@ -41,6 +41,7 @@ You can then Open the Source code folder in VScode, inside the code folder is:
 - MoneyModel.py(Mesa Model)
 
 Run the **Main.py** file in VScode this will execute the Mesa Model, and it will bring you to a webbrowser and then you will see this below.
+
 ![image](https://user-images.githubusercontent.com/63110077/196184473-ed545c12-d2ec-4b39-8c7a-ded1cf3312af.png)
 
 
