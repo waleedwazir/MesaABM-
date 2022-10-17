@@ -2,11 +2,11 @@
 
 The code model is a very simple simulated agent-based economy, drawn from econophysics and presenting a statistical mechanics approach to wealth distribution [Dragulescu2002]. The rules of our tutorial model:
 
-There are some number of agents.
+1. There are some number of agents.
 
-All agents begin with 1 unit of money.
+2. All agents begin with 1 unit of money.
 
-At every step of the model, an agent gives 1 unit of money (if they have it) to some other agent.
+3. At every step of the model, an agent gives 1 unit of money (if they have it) to some other agent.
 
 Despite its simplicity, this model yields results that are often unexpected to those not familiar with it. For our purposes, it also easily demonstrates Mesa’s core features.
 
