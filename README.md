@@ -40,5 +40,9 @@ You can then Open the Source code folder in VScode, inside the code folder is:
 - Main.py(Run this to execute the program)
 - MoneyModel.py(Mesa Model)
 
-Run the **Main.py** file in VScode this will execute the Mesa Model.
+Run the **Main.py** file in VScode this will execute the Mesa Model, and you will see this below.
+![image](https://user-images.githubusercontent.com/63110077/196184473-ed545c12-d2ec-4b39-8c7a-ded1cf3312af.png)
+
+
+Click ‘step’ to advance the model by one step, and the agents will move around. Click ‘run’ and the agents will keep moving around, at the rate set by the ‘fps’ (frames per second) slider at the top. Try moving it around and see how the speed of the model changes. Pressing ‘pause’ will (as you’d expect) pause the model; presing ‘run’ again will restart it. Finally, ‘reset’ will start a new instantiation of the model.
 
