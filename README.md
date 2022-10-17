@@ -1,1 +1,3 @@
 # MesaABM-
+
+`$ pip install mesa`
