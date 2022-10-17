@@ -29,7 +29,7 @@ This will install the dependencies listed in the requirements.txt file which are
 - mesa (this ABM library – if not installed)
 - numpy (Python’s numerical python library)
 
-###Running the Code
+### Running the Code
 
 To run the code I am using **VScode** which you can download at https://code.visualstudio.com/download.
 Make sure to set VScode's interpreter to the version you downloaded at the start of this readme.
